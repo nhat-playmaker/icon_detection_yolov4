@@ -22,5 +22,5 @@ In this project, I just need to detect 5 icon-types:
 - VERTICAL MORE
 
 ## Details instruction
-View more in f
+View more details in file `report.pdf`.
 
