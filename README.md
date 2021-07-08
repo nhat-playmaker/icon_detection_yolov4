@@ -21,6 +21,6 @@ In this project, I just need to detect 5 icon-types:
 - MENU
 - VERTICAL MORE
 
-### Data augmentation
-`python data_aug.py`
+## Details instruction
+View more in f
 
